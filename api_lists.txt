@@ -1,0 +1,17 @@
+// Getting all dua data
+http://localhost:5000/all_dua
+
+// Getting all category             
+http://localhost:5000/categories
+
+// Getting duas by category ID
+http://localhost:5000/dua_by_category/2
+
+// Getting all sub_category         
+http://localhost:5000/sub_categories
+
+// Getting duas by sub_category ID
+http://localhost:5000/dua_by_sub_category/8
+
+// Getting sub-category data by category ID
+http://localhost:5000/sub_categories_by_category/1
